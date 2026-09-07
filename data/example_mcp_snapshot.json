@@ -1,0 +1,16 @@
+{
+  "source": "Binance Agent OS MCP (SANITIZED EXAMPLE)",
+  "wallets": [
+    {
+      "walletName": "Spot",
+      "quoteAsset": "USDT",
+      "value": "100.00"
+    }
+  ],
+  "positions": [],
+  "metadata": {
+    "positions_verified": true,
+    "sample": true,
+    "note": "Fictional values for public repository/demo documentation only."
+  }
+}
