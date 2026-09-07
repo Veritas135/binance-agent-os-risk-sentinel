@@ -1,3 +1,14 @@
+## [0.3.0] - 2026-09-08
+
+### Added
+- Real MCP demo guide.
+- Sanitized public MCP snapshot example.
+- Portfolio snapshot verification semantics.
+- Tests for wallet-value and derivatives-exposure states.
+
+### Changed
+- Portfolio Agent no longer treats an empty unverified positions array as proof that the portfolio is flat.
+
 # Changelog
 
 ## 0.2.0 — 2026-09-07

@@ -296,3 +296,17 @@ Market regimes and risk scores are simplified demonstration logic. They are not 
 ## License
 
 MIT
+
+---
+
+## Real MCP demo path
+
+For a real Binance Agent OS demonstration, see [`REAL_MCP_DEMO.md`](REAL_MCP_DEMO.md).
+
+The public repository includes only a **sanitized fictional snapshot** at
+`data/example_mcp_snapshot.json`. Real account values should remain local and
+must not be committed.
+
+Portfolio Agent now distinguishes wallet-level account value from verified
+derivatives positions, so a partial MCP snapshot cannot be mislabeled as a
+fully verified flat portfolio.
